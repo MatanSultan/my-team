@@ -7,7 +7,12 @@ import 'tailwindcss/tailwind.css'
 
 const Home: NextPage = () => {
   return (
+    
     <div className="container mx-auto">
+      <div className="bg"></div>
+<div className="bg bg2"></div>
+<div className="bg bg3"></div>
+
       <Head>
         <title>  our team </title>
 
