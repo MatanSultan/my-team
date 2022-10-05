@@ -21,15 +21,18 @@
     right:-50%;
     top:0;
     z-index:-1;
+    opacity: 20%;
   }
   
   .bg2 {
     animation-direction:alternate-reverse;
     animation-duration:4s;
+
   }
   
   .bg3 {
     animation-duration:5s;
+  
   }
   
  
